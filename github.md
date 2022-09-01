@@ -20,3 +20,5 @@
 1. Configure your username by opening a terminal and typing "git config --global user.name (your_github_user_name or your_actual_name)"
 2. Configure your email by typing "git config --global user.email (your_github_email)"
 3. Verify by typing "git config --global --list"
+
+Test
